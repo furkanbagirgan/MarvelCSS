@@ -1,7 +1,7 @@
-# Week 2 Project
+# Marvel CSS Project
 You can find the live version of the application [here](https://react-bootcamp-week2-assignment.vercel.app/).
 
-Here are the my week 2 project I have done.
+This project is a css work that I have done, showing marvel characters.
 
 ## Destop View
 ![desktopView](img/desktopView.png)
